@@ -1,0 +1,22 @@
+# Solmaz Fashion - robots.txt
+# Bu dosya arama motoru botlarına hangi sayfaların taranabileceğini belirtir.
+
+User-agent: *
+Allow: /
+
+# Site haritası
+Sitemap: https://solmazfashion.github.io/sitemap.xml
+
+# CSS/JS dosyalarına izin ver (render için gerekli)
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/img/
+
+# Yönetim/arama dışı bırakılacak yok (static site)
+# Disallow: (boş bırakıldı)
+
+# Crawl-delay (isteğe bağlı, sunucu yükünü azaltır)
+Crawl-delay: 10
+
+# Host (Google için)
+Host: https://solmazfashion.github.io

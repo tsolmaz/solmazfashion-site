@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Ana Sayfa -->
+  <url>
+    <loc>https://solmazfashion.github.io/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://solmazfashion.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://solmazfashion.github.io/"/>
+  </url>
+
+  <!-- Hakkımızda -->
+  <url>
+    <loc>https://solmazfashion.github.io/hakkimizda/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://solmazfashion.github.io/hakkimizda/"/>
+  </url>
+
+  <!-- Vizyonumuz -->
+  <url>
+    <loc>https://solmazfashion.github.io/vizyon/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://solmazfashion.github.io/vizyon/"/>
+  </url>
+
+  <!-- Medyada Biz -->
+  <url>
+    <loc>https://solmazfashion.github.io/medya/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://solmazfashion.github.io/medya/"/>
+  </url>
+
+  <!-- Blog Ana Sayfa -->
+  <url>
+    <loc>https://solmazfashion.github.io/blog/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://solmazfashion.github.io/blog/"/>
+  </url>
+
+  <!-- Blog Yazıları -->
+  <url>
+    <loc>https://solmazfashion.github.io/blog/3-iplik-sardon-sweatshirt-neden-tercih-edilmeli.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://solmazfashion.github.io/blog/3-iplik-sardon-sweatshirt-neden-tercih-edilmeli.html"/>
+  </url>
+
+  <url>
+    <loc>https://solmazfashion.github.io/blog/kase-polar-hirka-secim-rehberi.html</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://solmazfashion.github.io/blog/kase-polar-hirka-secim-rehberi.html"/>
+  </url>
+
+  <url>
+    <loc>https://solmazfashion.github.io/blog/toptan-esofman-aliminda-koli-mantigi.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://solmazfashion.github.io/blog/toptan-esofman-aliminda-koli-mantigi.html"/>
+  </url>
+
+  <!-- İletişim -->
+  <url>
+    <loc>https://solmazfashion.github.io/iletisim/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://solmazfashion.github.io/iletisim/"/>
+  </url>
+</urlset>
